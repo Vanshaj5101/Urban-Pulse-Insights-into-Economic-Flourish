@@ -11,3 +11,8 @@ The multi-bar chart comes with a drop-down menu for user to select their own age
 The radar and the steam graphs come with checkboxes to allow the user to select and de-select any attributes they choose.
 
 Each visualization comes with its own set interaction, try hovering over the graphs, to find more about each one.
+
+
+
+https://github.com/Vanshaj5101/Urban-Pulse-Insights-into-Economic-Flourish/assets/68272691/12b9055a-55aa-4605-9e9a-29cce9c901ee
+
